@@ -1,0 +1,10 @@
+0-sum_squares.txt
+
+Enter N= 0
+		Multiply N*N
+			Print N*N
+	N+1
+		Repeat line 4 and 5
+Sum of N*N square
+Prirnt Sum
+End.
